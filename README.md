@@ -1,4 +1,4 @@
-# a2a-peptides-ai
+# A2A Peptides
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,47 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-a2a-peptides-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://a2a-peptides.ai/
+A2A Peptides provides an agentic commerce hub enabling licensed peptide trade via the Model Context Protocol (MCP). It connects AI agents directly to peptide suppliers across 35 countries, offering real-time clearance checks, pricing, and automated ordering without human browsers.
+
+**Areas:** Peptides · AgenticCommerce · MCP · AI · LicensedTrade
+
+## A2A Peptides on APIs.io
+
+Everything profiled for A2A Peptides is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/a2a-peptides-ai/](https://apis.io/providers/a2a-peptides-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- A2A Peptides API — Product facts on this hub are served live from gtinfetch.ai, the GTIN resolver for AI agents; every answer carries its source page, date read and…
+
+_These APIs get their own pages on APIs.io at the next catalog build, and this README is re-rendered with links when they do._
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://a2a-peptides.ai/)
+- [Documentation](https://a2a-peptides.ai/docs)
+- [Getting started](https://a2a-peptides.ai/setup)
+- [API reference](https://a2a-peptides.ai/docs)
+- [Support](https://a2a-peptides.ai/support)
+- [Security](https://a2a-peptides.ai/security)
+- [Terms of service](https://a2a-peptides.ai/terms)
+- [Privacy policy](https://a2a-peptides.ai/privacy)
+- [GitHub](https://github.com/A2A-Peptides)
+- [Status](https://a2a-peptides.ai/status)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/a2a-peptides-ai/](https://apis.io/providers/a2a-peptides-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for A2A Peptides: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/a2a-peptides-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).

@@ -66,7 +66,7 @@
 
 A2A Peptides provides an agentic commerce hub enabling licensed peptide trade via the Model Context Protocol (MCP). It connects AI agents directly to peptide suppliers across 35 countries, offering real-time clearance checks, pricing, and automated ordering without human browsers.
 
-**Areas:** Peptides · AgenticCommerce · MCP · AI · LicensedTrade
+**Areas:** Peptides · Agentic Commerce · MCP · Artificial Intelligence · Licensed Trade
 
 ## A2A Peptides on APIs.io
 
@@ -74,9 +74,43 @@ Everything profiled for A2A Peptides is published on APIs.io rather than in this
 
 ### APIs (1)
 
-- A2A Peptides API — Product facts on this hub are served live from gtinfetch.ai, the GTIN resolver for AI agents; every answer carries its source page, date read and…
+- [A2A Peptides API](https://apis.io/apis/a2a-peptides-ai/a2a-peptides-api/) — Product facts on this hub are served live from gtinfetch.ai, the GTIN resolver for AI agents; every answer carries its source page, date read and…
 
-_These APIs get their own pages on APIs.io at the next catalog build, and this README is re-rendered with links when they do._
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [a2a-peptides-ai-mcp.yml](https://apis.io/servers/a2a-peptides-ai/a2a-peptides-ai-mcp-yml/)
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [A2A Peptides Agentic Access](https://apis.io/agentic-access/a2a-peptides-ai/a2a-peptides-ai-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [A2A Peptides API Rules](https://apis.io/rules/a2a-peptides-ai/a2a-peptides-ai-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [A2A Peptides Authentication](https://apis.io/security/a2a-peptides-ai/a2a-peptides-ai-authentication/)
+- [A2A Peptides Domain Security](https://apis.io/security/a2a-peptides-ai/a2a-peptides-ai-domain-security/)
+- [A2A Peptides Vulnerability Disclosure](https://apis.io/security/a2a-peptides-ai/a2a-peptides-ai-vulnerability-disclosure/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [A2A Peptides Scopes](https://apis.io/scopes/a2a-peptides-ai/a2a-peptides-ai-scopes/)
 
 ## Where to find this API
 
@@ -95,7 +129,50 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/a2a-peptides-ai/](https://apis.io/providers/a2a-peptides-ai/).
+**Kin Score 30.5** — thin · rubric 0.28.1 · scored 2026-11-21
+
+| Facet | Score |
+|---|---|
+| Discoverability | 81.7 |
+| Contract quality | 0.0 |
+| Contract governance | 18.2 |
+| Operational transparency | 28.6 |
+| Developer ergonomics | 39.8 |
+| Access clarity | 29.8 |
+
+**Agent readiness 21.9** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | derived (partial credit) |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | signal |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | yes |
+
+**Regulatory alignment 31.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/a2a-peptides-ai/](https://apis.io/providers/a2a-peptides-ai/).
 
 ## How this profile is made
 
